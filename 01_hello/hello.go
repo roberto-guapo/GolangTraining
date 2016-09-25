@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse("Hello, Golang!"))
+	fmt.Println(stringutil.Reverse("!oG ,olloH"))
 }
